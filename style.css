@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(142, 221, 221);
+}
+
+h1{
+    font-style: oblique;
+    text-align: center;
+    color:red;
+    text-shadow: red 3px 3px 5px;
+    text-decoration: underline;
+ 
+}
+
+.Q {
+    color: red;
+}
+
+pre{
+    color: blue;
+}
